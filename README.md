@@ -7,3 +7,6 @@ It's basically custom neofetch
 
 ## General word of advice
 > Use it with a low-res (or high-res if u have a MASSIVE display) no background Png file for best results.
+
+## Results :
+<img src="img/sc.png">
